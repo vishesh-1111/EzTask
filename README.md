@@ -2,6 +2,12 @@
 
 <h4>This project involves creating a comprehensive website for your task management. The website includes a variety of layouts, responsive breakpoints, and engaging 3D elements in diverse styles, ensuring a dynamic and visually appealing user experience. ✔️ 🚀</h4>  
 
+<h3>
+  Login credentials
+  Email Address : user2@gmail.com
+  Password : 123456
+</h3>
+
 [Demo](https://ez-task-pi.vercel.app).\
 
 ## 🛠️ Setup Instructions  
