@@ -1,4 +1,4 @@
-# Digibrand Intern Project
+# AlgoRoot Intern Project
 
 <h4>This project involves creating a comprehensive website for your task management. The website includes a variety of layouts, responsive breakpoints, and engaging 3D elements in diverse styles, ensuring a dynamic and visually appealing user experience. ✔️ 🚀</h4>  
 
