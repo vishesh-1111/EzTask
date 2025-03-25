@@ -4,7 +4,7 @@
 
 <h3>
   Login credentials -->
-  Email Address : user2@gmail.com
+  Email Address : user2@gmail.com,
   Password : 123456
 </h3>
 
