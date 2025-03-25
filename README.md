@@ -8,7 +8,7 @@
   Password : 123456
 </h3>
 
-[Demo](https://ez-task-pi.vercel.app).\
+[Demo](https://ez-task-pi.vercel.app).
 
 ## 🛠️ Setup Instructions  
 
